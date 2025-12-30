@@ -1,0 +1,40 @@
+[
+  {
+    "label": "default-user-1",
+    "title": "Mr",
+    "password": "P@ssw0rd123!",
+    "dob": { "day": "10", "month": "May", "year": "1995" },
+    "newsletter": true,
+    "offers": true,
+    "address": {
+      "company": "Afaqy QA",
+      "address1": "221B Baker Street",
+      "address2": "Suite 3",
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "zip": "110001",
+      "mobile": "+201000000001"
+    }
+  },
+  {
+    "label": "default-user-2",
+    "title": "Mrs",
+    "password": "P@ssw0rd123!",
+    "dob": { "day": "3", "month": "January", "year": "1990" },
+    "newsletter": false,
+    "offers": true,
+    "address": {
+      "company": "Afaqy Automation",
+      "address1": "1600 Amphitheatre Pkwy",
+      "address2": "",
+      "country": "United States",
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "mobile": "+12025550123"
+    }
+  }
+]
+
+
