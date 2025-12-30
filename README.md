@@ -1,4 +1,6 @@
-## Playwright Data-Driven Signup Test (AutomationExercise)
+## AFAQY QA Task Submission
+
+This repository contains the requested **Playwright automation project**, plus the requested **Amazon testcases/business case** document, and **GO Bus bug reports**.
 
 ### Deliverables (as requested)
 - **Automation source code**: this repository (Playwright + POM + DDT + Allure)
@@ -38,6 +40,8 @@ Run tests (they will produce `allure-results/` automatically), then:
 npm run report:allure
 npm run open:allure
 ```
+
+Prerequisite: **Allure Commandline typically requires Java** installed on the machine.
 
 ### Test data
 Edit/add base records in:
